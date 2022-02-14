@@ -1,4 +1,9 @@
 # OneDrive-Uninstaller
+
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 This is a batch script to completely uninstall OneDrive in Windows 10 and 11.
 
 It'll only take a moment and could save you hours of grief...
